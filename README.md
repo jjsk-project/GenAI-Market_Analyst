@@ -9,14 +9,17 @@ Therefore, the ETA completion would be April.
 Please stay tuned for the coding part of this project. 
 
 Q1: What aspects of Generative AI are you most interested in and why do you want to be part of Exemplar Forum 2024?
+
 Project 2: GenAI Market Analyst
 I am interested in how generative AI can bridge between data and engineering. As a consultant in the data science and mechanical engineering field, I am excited to learn and explore various applications of GenAI from Exemplar Forum 2024. 
 (This section is same as previously submitted project 1: GenAI-Video_Summarization)
+
 
 Q2:Have you experimented with or explored any Generative AI solutions?
 Project 2: GenAI Market Analyst
 I have utilised generative AI to summarize and prepare for industry learning materials and client deliverables. When starting a project in an industry that I am not familiar with, generative AI can help smooth the learning curve for the project and provide creative and diverse insights on the project. This could lead to more meaningful engagement and informative interactions between Aurecon and clients.
 (This section is same as previously submitted project 1: GenAI-Video_Summarization)
+
 
 Q3: What challenges are you looking to solve for you clients with Generative AI and are you actively engaged in conversations?
 The purpose of this project is to solve the challenges that time-series machine learning (ML) algorithms are unable to react well to global and geopolitical events.
@@ -43,6 +46,7 @@ Aurecon's Engage side:
 
 Other usage:
 - **Community engagement:** Sentimental analytic and classification function can be used for social engineering. For example, prevent protest on building a wind farm or check out review on glass door.
+
 
 Q4: What data or information have you been able to leverage with Generative AI?
 The following resources are used.
