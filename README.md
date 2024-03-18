@@ -8,7 +8,7 @@ This project is also my capstone project for the Master of Data Science at the U
 Therefore, the ETA completion would be April. 
 Please stay tuned for the coding part of this project. 
 
----
+----
 Project 2: GenAI Market Analyst
 ----
 Q1: What aspects of Generative AI are you most interested in and why do you want to be part of Exemplar Forum 2024?
