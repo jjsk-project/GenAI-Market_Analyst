@@ -7,18 +7,17 @@ At the current stage, I am unsure about the machine learning part of the project
 This project is also my capstone project for the Master of Data Science at the University of Queensland.
 Therefore, the ETA completion would be April. 
 Please stay tuned for the coding part of this project. 
+
+---
+Project 2: GenAI Market Analyst
 ----
 Q1: What aspects of Generative AI are you most interested in and why do you want to be part of Exemplar Forum 2024?
-
-Project 2: GenAI Market Analyst
 
 I am interested in how generative AI can bridge between data and engineering. As a consultant in the data science and mechanical engineering field, I am excited to learn and explore various applications of GenAI from Exemplar Forum 2024. 
 (This section is same as previously submitted project 1: GenAI-Video_Summarization)
 
 
 Q2:Have you experimented with or explored any Generative AI solutions?
-
-Project 2: GenAI Market Analyst
 
 I have utilised generative AI to summarize and prepare for industry learning materials and client deliverables. When starting a project in an industry that I am not familiar with, generative AI can help smooth the learning curve for the project and provide creative and diverse insights on the project. This could lead to more meaningful engagement and informative interactions between Aurecon and clients.
 (This section is same as previously submitted project 1: GenAI-Video_Summarization)
@@ -29,7 +28,9 @@ Q3: What challenges are you looking to solve for you clients with Generative AI 
 The purpose of this project is to solve the challenges that time-series machine learning (ML) algorithms are unable to react well to global and geopolitical events.
 
 For example, the client is from the transport section, and crude oil price has a direct impact on their business. While the Russian-Ukraine war is affecting oil production and commodity prices. The fluctuating commodity price is affecting the budgeting and asset management strategy.  A promising asset life cycle and performance strategy rely on a stable and reliable way of predicting long-time price trends.
+
 While traditional budgeting relies on banking analysts and time-series ML algorithms, the ML algorithm cannot automatically evaluate the impact of geopolitical incidents.
+
 That is why this project would like to use GenAI to provide a reliable analysis input into the Long Short-Term Memory (LSTM) ML model.
 
 This project can help in:
@@ -52,6 +53,7 @@ Other usage:
 
 
 Q4: What data or information have you been able to leverage with Generative AI?
+
 The following resources are used.
 
     - OpenAI API with embedding function.
