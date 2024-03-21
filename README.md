@@ -4,24 +4,20 @@ The project proposal is updated, please look at page 11 for the initial road map
 
 At the current stage, I am unsure about the machine learning part of the project. Once the accuracy is higher than 70%, I will update more information about the machine learning algorithm and its hyperparameters.
 
-This project is also my capstone project for the Master of Data Science at the University of Queensland.
+This project is also my capstone project for the Master of Data Science.
 Therefore, the ETA completion would be April. 
 Please stay tuned for the coding part of this project. 
 
 ----
 Project 2: GenAI Market Analyst
 ----
-Q1: What aspects of Generative AI are you most interested in and why do you want to be part of Exemplar Forum 2024?
+Q1: What aspects of Generative AI are you most interested in?
 
-I am interested in how generative AI can bridge between data and engineering. As a consultant in the data science and mechanical engineering field, I am excited to learn and explore various applications of GenAI from Exemplar Forum 2024. 
-(This section is same as previously submitted project 1: GenAI-Video_Summarization)
-
+I am interested in how generative AI can bridge between data and engineering. As a consultant in the data science and mechanical engineering field, I am excited to learn and explore various applications of GenAI. 
 
 Q2:Have you experimented with or explored any Generative AI solutions?
 
-I have utilised generative AI to summarize and prepare for industry learning materials and client deliverables. When starting a project in an industry that I am not familiar with, generative AI can help smooth the learning curve for the project and provide creative and diverse insights on the project. This could lead to more meaningful engagement and informative interactions between Aurecon and clients.
-(This section is same as previously submitted project 1: GenAI-Video_Summarization)
-
+I have utilised generative AI to summarize and prepare for industry learning materials and client deliverables. When starting a project in an industry that I am not familiar with, generative AI can help smooth the learning curve for the project and provide creative and diverse insights on the project. This could lead to more meaningful engagement and informative interactions.
 
 Q3: What challenges are you looking to solve for you clients with Generative AI and are you actively engaged in conversations?
 
@@ -43,7 +39,7 @@ For mining company:
 - Production: If the estimated price is lower than the cost price. There is no point of production.
 - Price Contact: Have a better understanding of lock-in price contracts with buyers. (refinery or manufacturer)
 
-Aurecon's Engage side:
+Client Engage side:
 - **Provide better market trend:** Keep track in client's business context and market condition.
 - **Asset management advisory:** Provide suggestion on when to stock and what to buy.
 - **Proactive planning:** Plan proactively instead of waiting and react.
